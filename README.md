@@ -1,3 +1,3 @@
 # M4R1OS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![M4rios GitHub stats](https://github-readme-stats.vercel.app/api?M4riosDev=anuraghazra)](https://github.com/M4riosDev/github-readme-stats)
